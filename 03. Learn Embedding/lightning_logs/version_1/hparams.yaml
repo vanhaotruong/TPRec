@@ -1,6 +1,0 @@
-dropout_rate: 0.3
-embedding_dim: 64
-lr: 0.001
-num_entities: 46186
-num_relations: 24
-weight_decay: 0.001
