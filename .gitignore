@@ -2,4 +2,4 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
-./lightning_logs
+lightning_logs/
